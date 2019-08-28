@@ -1,7 +1,8 @@
 Properties: []
 Templates: []
 Events: []
-States: []
+States:
+- Name: Other Thing
 ExistingDomainObjects: []
 Key: something2
 Name: Something2

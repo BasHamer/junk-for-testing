@@ -1,0 +1,14 @@
+Participants:
+- DomainObjectId: something
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates:
+  - EventId: something.something
+- DomainObjectId: something2
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates:
+  - StateId: something2.other thing
+Rules: []
+Key: weeee
+Name: Weeee
